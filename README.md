@@ -53,7 +53,7 @@ Before starting, ensure you have the following:
 ---
 
 ### Step 3: Add Code to the Lambda Function
-1. In the Lambda function editor, replace the default code with the provided Python code (see the `lambda_function.py` file in this repository).
+1. In the Lambda function editor, replace the default code with the provided Python code (see the `Lambda.py` file in this repository).
 2. **Deploy the function**.
 
 ---
